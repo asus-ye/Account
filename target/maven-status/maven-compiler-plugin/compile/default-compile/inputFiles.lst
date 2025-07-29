@@ -1,0 +1,10 @@
+C:\Users\asusy\Downloads\account-service\src\main\java\com\bank\accountservice\AccountServiceApplication.java
+C:\Users\asusy\Downloads\account-service\src\main\java\com\bank\accountservice\controller\AccountController.java
+C:\Users\asusy\Downloads\account-service\src\main\java\com\bank\accountservice\controller\CustomerController.java
+C:\Users\asusy\Downloads\account-service\src\main\java\com\bank\accountservice\model\Account.java
+C:\Users\asusy\Downloads\account-service\src\main\java\com\bank\accountservice\model\AccountType.java
+C:\Users\asusy\Downloads\account-service\src\main\java\com\bank\accountservice\model\Customer.java
+C:\Users\asusy\Downloads\account-service\src\main\java\com\bank\accountservice\repository\AccountRepository.java
+C:\Users\asusy\Downloads\account-service\src\main\java\com\bank\accountservice\repository\CustomerRepository.java
+C:\Users\asusy\Downloads\account-service\src\main\java\com\bank\accountservice\service\AccountService.java
+C:\Users\asusy\Downloads\account-service\src\main\java\com\bank\accountservice\service\CustomerService.java
